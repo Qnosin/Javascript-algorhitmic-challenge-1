@@ -1,7 +1,6 @@
 ## Javascript algorhitmic challenges #1
 first exercise of my 100 chalenges in 30 days!!
-* This Triangular Number Sequence is generated from a pattern of dots that form a triangle. The first 5 numbers of the sequence, or dots, are:
-* 1, 3, 6, 10, 15
+* This Triangular Number Sequence is generated from a pattern of dots that form a triangle. The first 5 numbers of the sequence, or dots, are:  1, 3, 6, 10, 15
 * Write a function that returns the number of dots when given its corresponding triangle number of the sequence.
 	
 ## How to see the results of my solution?
